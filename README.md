@@ -18,8 +18,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Shafeeq Ahamed.S
-RegisterNumber:  212221230092
+Developed by: Sanjay Kumar.S.S
+RegisterNumber:  212221240048
 */
 ```
 ```py
